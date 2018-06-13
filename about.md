@@ -12,4 +12,4 @@ Please support my github project if you like it, thanks!
 
 ### Contact me
 
-[huangxuefengcn@gmail.com](mailto:huangxuefengcn@gmail.com)
+[laserk_klei@hotmail.com](mailto:laserk_klei@hotmail.com)

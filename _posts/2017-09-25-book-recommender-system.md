@@ -3,6 +3,7 @@ layout: post
 title: 基于Spark的在线智能图书推荐系统
 ---
 ## 项目简介
+* copied from: https://github.com/XuefengHuang
 * 基于Spark, Python Flask, 和 [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) 的在线图书推荐系统。
 * 源代码地址：https://github.com/XuefengHuang/spark-book-recommender-system。 
 * 适合初学者学习如何搭建一个推荐系统，本文底下附有其他数据，可供参考学习。
