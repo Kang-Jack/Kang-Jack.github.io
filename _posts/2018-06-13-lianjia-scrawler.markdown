@@ -1,8 +1,15 @@
 ---
 layout: post
 title: 使用python抓取并用kibana分析数据—链家网
+date: 2018-06-22 13:32:20 +0300
+description: copied from:https://github.com/XuefengHuang # Add post description (optional)
+img: software.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Python, lian jia,scrawler]
 ---
+
 copied from: https://github.com/XuefengHuang
+
 本篇文章介绍如何使用python(requests+BeautifulSoup)的方法对页面进行抓取和数据提取。通过使用requests库对链家网二手房列表页进行抓取，通过BeautifulSoup对页面进行解析，并从中获取房源价格，面积，户型和关注度的数据。
 
 # 准备工作
