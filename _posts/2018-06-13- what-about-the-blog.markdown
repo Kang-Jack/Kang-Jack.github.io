@@ -9,8 +9,8 @@ tags: [Holidays, Beijing]
 ---
 I have been lives in Beijing since 2001. Compare with the history of this city, it just a small number of years in peacefull age. But it is a golden age for me to grow with this city from a fresh out college student to a father.
 
-## How i rest from work
-90's yr crucifixs.
+## What about the blog
+This blog is to share some technical/interesting/innovational things or story made me feel funny, and wish can also enjoy your life.
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
