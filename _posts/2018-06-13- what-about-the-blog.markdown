@@ -12,7 +12,7 @@ I have been lives in Beijing since 2001. Compare with the history of this city, 
 ## What about the blog
 This blog is to share some technical/interesting/innovational things or story made me feel funny, and wish can also enjoy your life.
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/2008_beijing_olympics.jpg)
 
 Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. 
 
