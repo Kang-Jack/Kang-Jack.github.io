@@ -22,7 +22,7 @@ social-email: laserk_klei@hotmail.com # add your Email address
 discus-identifier: kang-jack-github-io # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-121079975-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
