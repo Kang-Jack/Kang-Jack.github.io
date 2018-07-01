@@ -15,6 +15,8 @@ copied from: https://github.com/XuefengHuang
 # 准备工作
 inital idea comes from:
 http://lanbing510.info/2016/03/15/Lianjia-Spider.html
+codes: 
+https://github.com/lanbing510/LianJiaSpider
 
 * 为了方便数据库建表读写，我们使用python ORM工具[Peewee](https://github.com/coleifer/peewee)。并且使用BeautifulSoup+Requests对页面进行抓取和数据提取。具体所需依赖包如下
 
